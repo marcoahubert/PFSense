@@ -2,12 +2,13 @@
 
 
 First you need to prepare the permissions, it's easy just do it chmod +x nxfilter.sh
-Follown
+
+Follown
 
 
 ## before that copy script
 
-![alt tag](https://github.com/marcoahubert/pfsense/master/screenshots/nxfilter01.png)
+![alt tag](https://github.com/marcoahubert/PFSense/tree/master/screenshots/nxfilter01.png)
 
 
 
