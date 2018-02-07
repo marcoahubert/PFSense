@@ -8,7 +8,7 @@ Follown
 
 ## before that copy script
 
-![alt tag](https://github.com/marcoahubert/PFSense/tree/master/screenshots/nxfilter01.png)
+![alt tag](https://github.com/marcoahubert/PFSense/blob/master/screenshots/nxfilter01.PNG)
 
 
 
