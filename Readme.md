@@ -1,9 +1,13 @@
-#This script was created to turn easy the instalation NXFilter:
+## This script was created to turn easy the instalation NXFilter:
+
+First create or copy the archive "nxfilter.sh", if you decide create following the picture:
+![alt tag](https://github.com/marcoahubert/PFSense/blob/master/screenshots/nxfilter00.PNG)
 
 
-First you need to prepare the permissions, it's easy just do it chmod +x nxfilter.sh
 
-Follown
+Second you need to prepare the permissions, it's easy just do it chmod +x nxfilter.sh
+
+
 
 
 ## before that copy script
